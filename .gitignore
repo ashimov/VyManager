@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+.next/
+out/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Cache
+.cache/
+.npm/
+.eslintcache
+
+# Test
+coverage/
+.pytest_cache/
+
+# Misc
+*.bak
+=*
+
+# Editor local history
+.history/
